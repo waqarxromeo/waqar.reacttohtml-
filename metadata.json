@@ -1,0 +1,5 @@
+{
+  "name": "React Bundler AI",
+  "description": "Instantly convert a ZIP of a React project into a single, self-contained HTML file using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
